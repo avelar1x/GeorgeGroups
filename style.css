@@ -30,13 +30,10 @@ body{
     font-size: 20px;
     font-family: italic;
 }
-div{
-    justify-content:;
-    align-items:baseline;
-    display:block;
-    color:aqua;
-    font-size: x-large;
-    font-family: Arial, Helvetica, sans-serif;
+.itens{
+    display:flex;
+    flex-wrap: wrap;
+   
 }
 .card{
     background-color: pink;
