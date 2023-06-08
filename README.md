@@ -1,1 +1,3 @@
 # GeorgeGroups
+
+Meu primeiro projeto.
