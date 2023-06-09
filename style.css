@@ -3,6 +3,7 @@
     padding: 0px;
 }
 body{
+
     align-items: center;
     justify-content: center;
     background:black; 
@@ -33,6 +34,7 @@ body{
     font-family: italic;
 }
 .itens{
+    
     gap: 110px;
     display:flex;
     flex-wrap: wrap;
@@ -43,7 +45,7 @@ body{
     width: 140px;
     height: 260px;
     border-radius: 12px;
-    box-shadow: 4px 4px 12px #aaaa;
+    box-shadow: 4px 4px 12px white;
     
 }
 .card h1 {
@@ -88,7 +90,7 @@ body{
     width: 140px;
     height: 260px;
     border-radius: 12px;
-    box-shadow: 4px 4px 12px #aaaa;
+    box-shadow: 4px 4px 12px white;
     
 }
 .card2 h1 {
@@ -134,7 +136,7 @@ body{
     width: 140px;
     height: 260px;
     border-radius: 12px;
-    box-shadow: 4px 4px 12px #aaaa;
+    box-shadow: 4px 4px 12px white;
     
 }
 .card3 h1 {
@@ -180,7 +182,7 @@ body{
     width: 140px;
     height: 260px;
     border-radius: 12px;
-    box-shadow: 4px 4px 12px #aaaa;
+    box-shadow: 4px 4px 12px white;
     
 }
 .card4 h1 {
@@ -229,7 +231,7 @@ body{
     width: 140px;
     height: 260px;
     border-radius: 12px;
-    box-shadow: 4px 4px 12px #aaaa;
+    box-shadow: 4px 4px 12px white;
     
 }
 .card5 h1 {
@@ -273,7 +275,7 @@ body{
     width: 140px;
     height: 260px;
     border-radius: 12px;
-    box-shadow: 4px 4px 12px #aaaa;
+    box-shadow: 4px 4px 12px white;
     
 }
 .card6 h1 {
@@ -317,7 +319,7 @@ body{
     width: 140px;
     height: 260px;
     border-radius: 12px;
-    box-shadow: 4px 4px 12px #aaaa;
+    box-shadow: 4px 4px 12px white;
     
 }
 .card7 h1 {
@@ -361,7 +363,7 @@ body{
     width: 140px;
     height: 260px;
     border-radius: 12px;
-    box-shadow: 4px 4px 12px #aaaa;
+    box-shadow: 4px 4px 12px white;
     
 }
 .card8 h1 {
@@ -404,6 +406,8 @@ body{
     border: black solid;
     border-radius: 4px;
     font-weight: bold;
-    ;
+    box-shadow:4px 4px 12px white;
+    color: #137de8;
+    padding: 1px;
 }
 
