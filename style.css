@@ -8,6 +8,8 @@ body{
     background:black; 
     gap: 16px;
     height: 100vh;
+    background-image: url(terror\ \(2\).jpg)
+    
 
 }
 .name1{
@@ -31,8 +33,7 @@ body{
     font-family: italic;
 }
 .itens{
-
-    gap: 50px;
+    gap: 110px;
     display:flex;
     flex-wrap: wrap;
    
@@ -399,5 +400,10 @@ body{
     border-top-left-radius: 12px;
     border-top-left-radius: 12px;
 }
-
+.grupo1 img{
+    border: black solid;
+    border-radius: 4px;
+    font-weight: bold;
+    ;
+}
 
